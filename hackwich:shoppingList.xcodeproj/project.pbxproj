@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A2A560D22136CC800FEEA85 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A2A560C22136CC800FEEA85 /* Item.swift */; };
 		6AD89B89220E22ED00354E80 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD89B88220E22ED00354E80 /* AppDelegate.swift */; };
 		6AD89B8B220E22ED00354E80 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD89B8A220E22ED00354E80 /* ViewController.swift */; };
 		6AD89B8E220E22ED00354E80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AD89B8C220E22ED00354E80 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6A2A560C22136CC800FEEA85 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		6AD89B85220E22ED00354E80 /* hackwich:shoppingList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hackwich:shoppingList.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AD89B88220E22ED00354E80 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6AD89B8A220E22ED00354E80 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				6AD89B88220E22ED00354E80 /* AppDelegate.swift */,
 				6AD89B8A220E22ED00354E80 /* ViewController.swift */,
+				6A2A560C22136CC800FEEA85 /* Item.swift */,
 				6AD89B8C220E22ED00354E80 /* Main.storyboard */,
 				6AD89B8F220E22F300354E80 /* Assets.xcassets */,
 				6AD89B91220E22F300354E80 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AD89B8B220E22ED00354E80 /* ViewController.swift in Sources */,
+				6A2A560D22136CC800FEEA85 /* Item.swift in Sources */,
 				6AD89B89220E22ED00354E80 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
